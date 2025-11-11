@@ -20,7 +20,7 @@ fun CatchesScreen() {
         )
         Spacer(modifier = Modifier.height(16.dp))
         Text(
-            text = "Lista zapisanych ryb pojawi się tutaj",
+            text = "Kosz połowów",
             style = MaterialTheme.typography.bodyMedium
         )
     }

@@ -20,7 +20,7 @@ fun CatalogScreen() {
         )
         Spacer(modifier = Modifier.height(16.dp))
         Text(
-            text = "Baza wiedzy o rybach",
+            text = "Katalog ryb",
             style = MaterialTheme.typography.bodyMedium
         )
     }

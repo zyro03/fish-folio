@@ -20,7 +20,7 @@ fun CameraScreen() {
         )
         Spacer(modifier = Modifier.height(16.dp))
         Text(
-            text = "Tutaj będzie podgląd kamery i przycisk do zrobienia zdjęcia",
+            text = "Ekran aparatu",
             style = MaterialTheme.typography.bodyMedium
         )
     }
